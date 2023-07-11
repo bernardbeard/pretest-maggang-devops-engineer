@@ -18,7 +18,7 @@ Jawaban
   
 2. Infrastructur merupakan rangkaian dari keseluruhan layanan yang memiliki elemen didalamnya dan nantinya akan bertemu dengan beberapa      aspek seperti People,Server,dan Jaringan
 
-3.server yaitu platform layanan untuk menyimpan dan menampung data atau sumber daya yang dibutuhkan yang dimana layanan server ini bisa     berupa hardware maupun software
+3. server yaitu platform layanan untuk menyimpan dan menampung data atau sumber daya yang dibutuhkan yang dimana layanan server ini bisa     berupa hardware maupun software
   Contohnya : Web server jenis sever yang miliki fungsi khusus untuk melayani request protokol HTTP dan HTTPS ,web server ini melayani      client untuk meminta akses dari web browser yang berupa dokumen web seperti : htlm,css,javascript yang kemudian menampilkan informasi     yang dibutuhkan (teks,gambar,audio,maupun video).
 
 4. server sangat dibutuhkan untuk pengembangan software karena server sangat          membantu untuk proses pengembangan software untuk      sebagai wadah atau penyimpanan dari data atau sumber daya sebuah perangkat lunak
