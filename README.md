@@ -13,21 +13,21 @@
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
 Jawaban
-1.DevOps merupakan peran yang berhubungan dengan developer dan operations yang dimana devops ini memiliki
+1. DevOps merupakan peran yang berhubungan dengan developer dan operations yang dimana devops ini memiliki
   tugas bagaimana caranya aplikasi yang sudah dibuat oleh tim developer untuk bisa berjalan diserver yang dimainteain oleh tim Operation
   
-2.Infrastructur merupakan rangkaian dari keseluruhan layanan yang memiliki elemen didalamnya dan nantinya akan bertemu dengan beberapa      aspek seperti People,Server,dan Jaringan
+2. Infrastructur merupakan rangkaian dari keseluruhan layanan yang memiliki elemen didalamnya dan nantinya akan bertemu dengan beberapa      aspek seperti People,Server,dan Jaringan
 
 3.server yaitu platform layanan untuk menyimpan dan menampung data atau sumber daya yang dibutuhkan yang dimana layanan server ini bisa     berupa hardware maupun software
-  Contohnya : Web server jenis sever yang miliki fungsi khusus untuk melayani request protokol HTTP dan HTTPS ,web server ini melayani client untuk meminta akses dari web browser yang berupa dokumen web seperti : htlm,css,javascript yang kemudian menampilkan informasi yang dibutuhkan (teks,gambar,audio,maupun video).
+  Contohnya : Web server jenis sever yang miliki fungsi khusus untuk melayani request protokol HTTP dan HTTPS ,web server ini melayani      client untuk meminta akses dari web browser yang berupa dokumen web seperti : htlm,css,javascript yang kemudian menampilkan informasi     yang dibutuhkan (teks,gambar,audio,maupun video).
 
-4.server sangat dibutuhkan untuk pengembangan software karena server sangat          membantu untuk proses pengembangan software untuk sebagai wadah atau               penyimpanan dari data atau sumber daya sebuah perangkat lunak
+4. server sangat dibutuhkan untuk pengembangan software karena server sangat          membantu untuk proses pengembangan software untuk      sebagai wadah atau penyimpanan dari data atau sumber daya sebuah perangkat lunak
 
-5.Virtualisasi sebuah teknologi yang dapat merubah suatu material yang yang          sebelumnya bersifat fisik menjadi sebuah virtual yang dapat memberikan efisiensi   dalam mengerjakan suatu pekerjaan
+5.- Virtualisasi sebuah teknologi yang dapat merubah suatu material yang yang          sebelumnya bersifat fisik menjadi sebuah virtual       yang dapat memberikan efisiensi   dalam mengerjakan suatu pekerjaan
 
-  Container berfungsi mempackage aplikasi yang sudah dibuat secara bersamaan         dengan despendensi
+  - Container berfungsi mempackage aplikasi yang sudah dibuat secara bersamaan         dengan despendensi
   
-6. selain karena Container yang membantu para developer ,container juga lebih user friendly dibandingkan teknologi lainya karena memiliki size yang lebih kecil dibandungkan VM
+6. selain karena Container yang membantu para developer ,container juga lebih user friendly dibandingkan teknologi lainya karena memiliki   size yang lebih kecil dibandungkan VM
 
 7. Sebuah Tools untuk melayani host dalam sebuah grup dan membentuk sebuah cluster serta membantu untuk memenuhi layanan
    
